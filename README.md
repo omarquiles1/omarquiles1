@@ -14,7 +14,6 @@ I am a senior engineering student specializing in renewable energy, heavy indust
 **Engineering & Simulation**
 ![MATLAB](https://img.shields.io/badge/MATLAB-e16737?style=for-the-badge&logo=mathworks&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
-![SolidWorks](https://img.shields.io/badge/SolidWorks-E32224?style=for-the-badge&logo=dassaultsyst%C3%A8mes&logoColor=white)
 ![Navisworks](https://img.shields.io/badge/Navisworks-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
 
 **Programming & Web Development**
