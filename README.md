@@ -25,7 +25,6 @@ I am a 4th-year Industrial Technologies Engineering student at the University of
 ![MATLAB](https://img.shields.io/badge/MATLAB-e16737?style=for-the-badge&logo=mathworks&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Navisworks](https://img.shields.io/badge/Navisworks-00578A?style=for-the-badge)
-![SolidWorks](https://img.shields.io/badge/SolidWorks-CC0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 ![XFOIL](https://img.shields.io/badge/XFOIL-4A5563?style=for-the-badge)
 
 **Programming & Web Development**
